@@ -1,26 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll copyssss"
+title:  "Don't Lose Your Mind, Lose Your Weight!"
 date:   2014-07-07 15:30:27
 categories: jekyll update
 ---
 
-This is a new post.
+Want to know how Kareena Kapoor managed to achieve the perfect figure? India's top celebrity fitness guru has worked with the who's who of Bollywood including Kareena, Karishma, Saif, Lisa and Sonali. Now she lets you on her secret- you can eat anything you want as long as you plan for it.
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Check out this book at [Amazon][amazon-url] for more info.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+[amazon-url]: http://www.amazon.com/Dont-Lose-Your-Mind-Weight/dp/8184001053
