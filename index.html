@@ -24,7 +24,18 @@ layout: default
 
   <h1>Posts</h1>
 
+  <ul class="posts">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurlPosts }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+
   <!-- This loops through the paginated posts -->
+  <!--
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
@@ -34,7 +45,7 @@ layout: default
     {{ post.content }}
   </div>
 {% endfor %}
-
+-->
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
