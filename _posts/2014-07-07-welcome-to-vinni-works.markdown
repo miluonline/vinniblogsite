@@ -5,7 +5,7 @@ date:   2014-07-07 15:30:27
 categories: vinni update
 ---
 
-![Viini Works](/vinniblogsite/assets/Vinni.jpg)
+![Viini Works](/vinniblogsite/assets/Vinni2.jpg)
 
 WELCOME to my personal website! 
 
