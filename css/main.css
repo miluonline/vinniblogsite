@@ -437,3 +437,14 @@ margin-bottom: -4px;
 .post-pinit {
   margin-top: -87px; margin-left: 350px; list-style-type: none;
 }
+
+.post-buttons {
+  list-style-type: none;
+}
+
+.post-tweet {
+  margin-top: -27px;
+  margin-left: 550px;
+  list-style-type: none;
+  width: 100px;  
+}
