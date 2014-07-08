@@ -36,15 +36,15 @@ layout: default
 
   <!-- This loops through the paginated posts -->
   <!--
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
+  {% for post in paginator.posts %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="author">
+      <span class="date">{{ post.date }}</span>
+    </p>
+    <div class="content">
+      {{ post.content }}
+    </div>
+  {% endfor %}
 -->
 <!-- Pagination links -->
 <!--
@@ -62,6 +62,8 @@ layout: default
   {% endif %}
 </div>
 -->
+
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fmiluonline.github.io%2Fvinniblogsite%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
 
   <p class="rss-subscribe">Checkout all posts @ <a href="{{ "/archive" | prepend: site.baseurlPosts }}">Archive</a> </p>
   <br/>
