@@ -1,65 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>Vinni Works!</title>
+    <description>WELCOME to my personal website!  Thanks for visiting, and please come back, because i update this page frequently.</description>
     <link>http://miluonline.github.io/vinniblogsite/</link>
     <atom:link href="http://miluonline.github.io/vinniblogsite/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Jul 2014 17:42:03 -0400</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2014 17:42:03 -0400</lastBuildDate>
+    <pubDate>Tue, 08 Jul 2014 10:14:50 -0400</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2014 10:14:50 -0400</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
-        <title>Welcome to Jekyll 2!</title>
-        <description>&lt;p&gt;This is a new post.&lt;/p&gt;
+        <title>Don&#39;t Lose Your Mind, Lose Your Weight!</title>
+        <description>&lt;p&gt;Want to know how Kareena Kapoor managed to achieve the perfect figure? India’s top celebrity fitness guru has worked with the who’s who of Bollywood including Kareena, Karishma, Saif, Lisa and Sonali. Now she lets you on her secret- you can eat anything you want as long as you plan for it.&lt;/p&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+&lt;p&gt;Check out this book at &lt;a href=&quot;http://www.amazon.com/Dont-Lose-Your-Mind-Weight/dp/8184001053&quot;&gt;Amazon&lt;/a&gt;…&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/Dont-Lose-Your-Mind-Weight/dp/8184001053&quot;&gt;&lt;img src=&quot;/vinniblogsite/assets/HowToLoose.jpg&quot; alt=&quot;Don&#39;t Lose Your Mind, Lose Your Weight&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 07 Jul 2014 11:30:27 -0400</pubDate>
-        <link>http://miluonline.github.io/vinniblogsite/jekyll/update/2014/07/07/welcome-to-jekyll%20copy/</link>
-        <guid isPermaLink="true">http://miluonline.github.io/vinniblogsite/jekyll/update/2014/07/07/welcome-to-jekyll%20copy/</guid>
+        <link>http://miluonline.github.io/vinniblogsite/vinni/update/2014/07/07/dont-lose-your-mind/</link>
+        <guid isPermaLink="true">http://miluonline.github.io/vinniblogsite/vinni/update/2014/07/07/dont-lose-your-mind/</guid>
         
         
-        <category>jekyll</category>
+        <category>vinni</category>
         
         <category>update</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+        <title>Welcome to Vinni Works!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/vinniblogsite/assets/Vinni3.png&quot; alt=&quot;Viini Works&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;WELCOME to my personal website! &lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Thanks for visiting, and please come back, because i update this page frequently.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Jul 2014 11:30:27 -0400</pubDate>
-        <link>http://miluonline.github.io/vinniblogsite/jekyll/update/2014/07/07/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://miluonline.github.io/vinniblogsite/jekyll/update/2014/07/07/welcome-to-jekyll/</guid>
+        <pubDate>Sun, 06 Jul 2014 10:30:27 -0400</pubDate>
+        <link>http://miluonline.github.io/vinniblogsite/vinni/update/2014/07/06/welcome-to-vinni-works/</link>
+        <guid isPermaLink="true">http://miluonline.github.io/vinniblogsite/vinni/update/2014/07/06/welcome-to-vinni-works/</guid>
         
         
-        <category>jekyll</category>
+        <category>vinni</category>
         
         <category>update</category>
         
