@@ -47,6 +47,7 @@ layout: default
 {% endfor %}
 -->
 <!-- Pagination links -->
+<!--
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
@@ -60,7 +61,10 @@ layout: default
     <span class="next ">Next</span>
   {% endif %}
 </div>
+-->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurlPosts }}">via RSS</a></p>
+  <p class="rss-subscribe">Checkout all posts @ <a href="{{ "/archive" | prepend: site.baseurlPosts }}">Archive</a></p>
+
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurlPosts }}">via RSS</a></p>
 
 </div>
