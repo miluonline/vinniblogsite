@@ -13,5 +13,3 @@ Check out this book at [Amazon][amazon-url]...
 
 [amazon-url]: http://www.amazon.com/Dont-Lose-Your-Mind-Weight/dp/8184001053
 
-<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
-
