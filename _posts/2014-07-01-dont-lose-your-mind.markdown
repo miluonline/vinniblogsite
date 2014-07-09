@@ -9,8 +9,9 @@ Want to know how Kareena Kapoor managed to achieve the perfect figure? India's t
 
 Check out this book at [Amazon][amazon-url]...
 
-[![Don't Lose Your Mind, Lose Your Weight](/vinniblogsite/assets/HowToLoose.jpg)][amazon-url]
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=vinwor-20&marketplace=amazon&region=US&placement=8184001053&asins=8184001053&linkId=C6QIDZT5Y676DGIC&show_border=true&link_opens_in_new_window=true">
+</iframe>
 
-[amazon-url]: http://www.amazon.com/Dont-Lose-Your-Mind-Weight/dp/8184001053
+[amazon-url]: http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=vinwor-20&marketplace=amazon&region=US&placement=8184001053&asins=8184001053&linkId=C6QIDZT5Y676DGIC&show_border=true&link_opens_in_new_window=true
 
 
