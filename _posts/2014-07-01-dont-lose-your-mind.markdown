@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't Lose Your Mind, Lose Your Weight!"
-date:   2014-07-07 15:30:27
+date:   2014-07-08 15:30:27
 categories: vinni update
 ---
 
